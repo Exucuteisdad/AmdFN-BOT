@@ -110,4 +110,4 @@ const Discord = require("discord.js");
 
 // login token                          
 });
-bot.login("W79fd32k0JxiVNtKMbte0lIH5pAdnOmZ");
+bot.login("NzI3NTIyMzk3MDgyNzQ2OTkx.XvtGQQ.C-KGDH5dpOqsfmHuA8RZxGPGdz0");
